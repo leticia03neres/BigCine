@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Roboto:wght@100&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    font-family: 'Open Sans', sans-serif;;
+} 
+#logo1{
+    font-family: 'Limelight', cursive;
+    font-size: 65px;
+    margin-bottom: 48px;
+    color: #870303;
+}
+
+#logo2{
+    font-family: 'Limelight', cursive;
+    margin-left: -61px;
+    font-size: 65px;
+    color: #870303;
+
+}
